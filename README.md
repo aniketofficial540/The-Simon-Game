@@ -5,14 +5,15 @@ I'm excited to share my latest project - the Simon Game! Inspired by the classic
 
 🔧 Tech Stack:
 
-HTML5 for the structure
-CSS for styling
-JavaScript & JQuery for functionality
+HTML5 for the structure </br>
+CSS for styling </br>
+JavaScript & JQuery for functionality </br>
+
 🖥️ How It Works:
 
-A random color sequence is generated.
-Players must guess the colors in the correct order.
-Each successful round increases the level and sequence length.
+A random color sequence is generated. </br>
+Players must guess the colors in the correct order. </br>
+Each successful round increases the level and sequence length. </br>
 Check out the link below and let me know what you think!
 
 https://aniketofficial540.github.io/The-Simon-Game/
